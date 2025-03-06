@@ -63,7 +63,7 @@ justify-content: center;
 </head> 
 <body> 
 <div class="container"> 
-<h4>WELCOME TOO HOME</h4> 
+<h4>WELCOME TOO HOME Patul mendunia</h4> 
 <form action="register.php" method="POST"> 
 <input type="text" name="first_name" placeholder="First name" 
 required> 
