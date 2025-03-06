@@ -33,12 +33,14 @@ border: none;
 .btn { 
 background-color: #3b82f6; 
 color: white; 
-padding: 10px; 
-width: 100%; 
+padding: 15px; 
+width: 80%; /* Sesuaikan ukuran */ 
+font-size: 18px; 
 border: none; 
 border-radius: 5px; 
 cursor: pointer; 
-} 
+margin-left: 20px; /* Geser ke kanan */ 
+}
 .social-icons { 
 display: flex; 
 justify-content: center; 
